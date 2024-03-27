@@ -1,8 +1,8 @@
-# React + Vite
+# Each new step blanks out my rendering...
+- I run npm dev
+- click the link
+- my P element text will appear on the HTML
+- my puppy arrays, etc... disappear
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## the same issue occured with my puppy bowl workshop
+- is this possibly an issue with my VS Code?
